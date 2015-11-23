@@ -3,3 +3,5 @@
 - I'm new
 
 ### Basic Info ###
+
+### Fav Color
