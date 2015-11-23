@@ -5,3 +5,5 @@
 ### Basic Info ###
 
 ### Fav Color
+
+#### More detailed info goes here ####
