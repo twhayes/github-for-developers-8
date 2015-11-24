@@ -5,3 +5,6 @@
 ### Basic Info ###
 
 ### Fav Color
+
+### Another Characteristic ###
+
